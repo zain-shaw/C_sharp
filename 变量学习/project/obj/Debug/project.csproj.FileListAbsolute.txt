@@ -1,0 +1,6 @@
+C:\Users\CJ\Desktop\3.10\project\project\bin\Debug\project.exe.config
+C:\Users\CJ\Desktop\3.10\project\project\bin\Debug\project.exe
+C:\Users\CJ\Desktop\3.10\project\project\bin\Debug\project.pdb
+C:\Users\CJ\Desktop\3.10\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\3.10\project\project\obj\Debug\project.exe
+C:\Users\CJ\Desktop\3.10\project\project\obj\Debug\project.pdb
