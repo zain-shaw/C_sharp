@@ -1,0 +1,6 @@
+C:\Users\CJ\Desktop\project\成绩查询判断\成绩查询判断\bin\Debug\成绩查询判断.exe.config
+C:\Users\CJ\Desktop\project\成绩查询判断\成绩查询判断\bin\Debug\成绩查询判断.exe
+C:\Users\CJ\Desktop\project\成绩查询判断\成绩查询判断\bin\Debug\成绩查询判断.pdb
+C:\Users\CJ\Desktop\project\成绩查询判断\成绩查询判断\obj\Debug\成绩查询判断.csprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\project\成绩查询判断\成绩查询判断\obj\Debug\成绩查询判断.exe
+C:\Users\CJ\Desktop\project\成绩查询判断\成绩查询判断\obj\Debug\成绩查询判断.pdb

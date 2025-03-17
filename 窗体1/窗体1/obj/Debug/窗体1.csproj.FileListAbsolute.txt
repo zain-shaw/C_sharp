@@ -1,0 +1,9 @@
+C:\Users\CJ\Desktop\project\窗体1\窗体1\bin\Debug\窗体1.exe.config
+C:\Users\CJ\Desktop\project\窗体1\窗体1\bin\Debug\窗体1.exe
+C:\Users\CJ\Desktop\project\窗体1\窗体1\bin\Debug\窗体1.pdb
+C:\Users\CJ\Desktop\project\窗体1\窗体1\obj\Debug\窗体1.Form1.resources
+C:\Users\CJ\Desktop\project\窗体1\窗体1\obj\Debug\窗体1.Form2.resources
+C:\Users\CJ\Desktop\project\窗体1\窗体1\obj\Debug\窗体1.Properties.Resources.resources
+C:\Users\CJ\Desktop\project\窗体1\窗体1\obj\Debug\窗体1.csproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\project\窗体1\窗体1\obj\Debug\窗体1.exe
+C:\Users\CJ\Desktop\project\窗体1\窗体1\obj\Debug\窗体1.pdb
