@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2.4.4_项目四：数字古诗的保存和输出/1.0.0": {
+        "runtime": {
+          "2.4.4_项目四：数字古诗的保存和输出.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2.4.4_项目四：数字古诗的保存和输出/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

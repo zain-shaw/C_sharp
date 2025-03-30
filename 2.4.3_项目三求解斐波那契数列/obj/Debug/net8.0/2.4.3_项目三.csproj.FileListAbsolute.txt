@@ -1,0 +1,14 @@
+D:\编程代码库\C语言\C#\2.4.3_项目三\bin\Debug\net8.0\2.4.3_项目三.exe
+D:\编程代码库\C语言\C#\2.4.3_项目三\bin\Debug\net8.0\2.4.3_项目三.deps.json
+D:\编程代码库\C语言\C#\2.4.3_项目三\bin\Debug\net8.0\2.4.3_项目三.runtimeconfig.json
+D:\编程代码库\C语言\C#\2.4.3_项目三\bin\Debug\net8.0\2.4.3_项目三.dll
+D:\编程代码库\C语言\C#\2.4.3_项目三\bin\Debug\net8.0\2.4.3_项目三.pdb
+D:\编程代码库\C语言\C#\2.4.3_项目三\obj\Debug\net8.0\2.4.3_项目三.GeneratedMSBuildEditorConfig.editorconfig
+D:\编程代码库\C语言\C#\2.4.3_项目三\obj\Debug\net8.0\2.4.3_项目三.AssemblyInfoInputs.cache
+D:\编程代码库\C语言\C#\2.4.3_项目三\obj\Debug\net8.0\2.4.3_项目三.AssemblyInfo.cs
+D:\编程代码库\C语言\C#\2.4.3_项目三\obj\Debug\net8.0\2.4.3_项目三.csproj.CoreCompileInputs.cache
+D:\编程代码库\C语言\C#\2.4.3_项目三\obj\Debug\net8.0\2.4.3_项目三.dll
+D:\编程代码库\C语言\C#\2.4.3_项目三\obj\Debug\net8.0\refint\2.4.3_项目三.dll
+D:\编程代码库\C语言\C#\2.4.3_项目三\obj\Debug\net8.0\2.4.3_项目三.pdb
+D:\编程代码库\C语言\C#\2.4.3_项目三\obj\Debug\net8.0\2.4.3_项目三.genruntimeconfig.cache
+D:\编程代码库\C语言\C#\2.4.3_项目三\obj\Debug\net8.0\ref\2.4.3_项目三.dll
