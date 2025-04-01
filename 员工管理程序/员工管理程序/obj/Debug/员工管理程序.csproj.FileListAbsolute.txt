@@ -1,0 +1,10 @@
+E:\员工管理程序\员工管理程序\bin\Debug\员工管理程序.exe.config
+E:\员工管理程序\员工管理程序\bin\Debug\员工管理程序.exe
+E:\员工管理程序\员工管理程序\bin\Debug\员工管理程序.pdb
+E:\员工管理程序\员工管理程序\obj\Debug\员工管理程序.Form1.resources
+E:\员工管理程序\员工管理程序\obj\Debug\员工管理程序.Form2.resources
+E:\员工管理程序\员工管理程序\obj\Debug\员工管理程序.Properties.Resources.resources
+E:\员工管理程序\员工管理程序\obj\Debug\员工管理程序.csproj.GenerateResource.Cache
+E:\员工管理程序\员工管理程序\obj\Debug\员工管理程序.exe
+E:\员工管理程序\员工管理程序\obj\Debug\员工管理程序.pdb
+E:\员工管理程序\员工管理程序\obj\Debug\员工管理程序.csprojResolveAssemblyReference.cache

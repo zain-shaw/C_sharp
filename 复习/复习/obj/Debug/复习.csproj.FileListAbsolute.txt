@@ -1,0 +1,6 @@
+E:\复习\复习\bin\Debug\复习.exe.config
+E:\复习\复习\bin\Debug\复习.exe
+E:\复习\复习\bin\Debug\复习.pdb
+E:\复习\复习\obj\Debug\复习.csprojResolveAssemblyReference.cache
+E:\复习\复习\obj\Debug\复习.exe
+E:\复习\复习\obj\Debug\复习.pdb

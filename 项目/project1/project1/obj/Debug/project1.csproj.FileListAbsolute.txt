@@ -1,0 +1,6 @@
+C:\Users\CJ\Desktop\项目\project1\project1\bin\Debug\project1.exe.config
+C:\Users\CJ\Desktop\项目\project1\project1\bin\Debug\project1.exe
+C:\Users\CJ\Desktop\项目\project1\project1\bin\Debug\project1.pdb
+C:\Users\CJ\Desktop\项目\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\项目\project1\project1\obj\Debug\project1.exe
+C:\Users\CJ\Desktop\项目\project1\project1\obj\Debug\project1.pdb
