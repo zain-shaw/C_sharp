@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "兔子跳台阶/1.0.0": {
+        "runtime": {
+          "兔子跳台阶.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "兔子跳台阶/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
