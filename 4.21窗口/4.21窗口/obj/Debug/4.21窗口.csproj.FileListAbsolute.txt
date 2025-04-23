@@ -1,0 +1,9 @@
+C:\Users\CJ\Desktop\新建文件夹\4.21窗口\4.21窗口\bin\Debug\4.21窗口.exe.config
+C:\Users\CJ\Desktop\新建文件夹\4.21窗口\4.21窗口\bin\Debug\4.21窗口.exe
+C:\Users\CJ\Desktop\新建文件夹\4.21窗口\4.21窗口\bin\Debug\4.21窗口.pdb
+C:\Users\CJ\Desktop\新建文件夹\4.21窗口\4.21窗口\obj\Debug\4.21窗口.csprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\新建文件夹\4.21窗口\4.21窗口\obj\Debug\_4._21窗口.Form1.resources
+C:\Users\CJ\Desktop\新建文件夹\4.21窗口\4.21窗口\obj\Debug\_4._21窗口.Properties.Resources.resources
+C:\Users\CJ\Desktop\新建文件夹\4.21窗口\4.21窗口\obj\Debug\4.21窗口.csproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\新建文件夹\4.21窗口\4.21窗口\obj\Debug\4.21窗口.exe
+C:\Users\CJ\Desktop\新建文件夹\4.21窗口\4.21窗口\obj\Debug\4.21窗口.pdb

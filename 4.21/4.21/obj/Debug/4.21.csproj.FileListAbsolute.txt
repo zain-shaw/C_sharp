@@ -1,0 +1,6 @@
+C:\Users\CJ\Desktop\新建文件夹\4.21\4.21\bin\Debug\4.21.exe.config
+C:\Users\CJ\Desktop\新建文件夹\4.21\4.21\bin\Debug\4.21.exe
+C:\Users\CJ\Desktop\新建文件夹\4.21\4.21\bin\Debug\4.21.pdb
+C:\Users\CJ\Desktop\新建文件夹\4.21\4.21\obj\Debug\4.21.csprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\新建文件夹\4.21\4.21\obj\Debug\4.21.exe
+C:\Users\CJ\Desktop\新建文件夹\4.21\4.21\obj\Debug\4.21.pdb
